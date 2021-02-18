@@ -1,0 +1,23 @@
+.sidebar {
+  background-color: black;
+}
+
+.side-bar-link-element {
+  list-style: circle;
+  margin-bottom: 25%;
+  direction: ltr;
+}
+
+.sidebar-link {
+  margin: 3rem 0;
+  color: white;
+  text-decoration: none;
+}
+
+a.sidebar-link:hover {
+  color: grey;
+}
+
+.sidebar-link__active {
+  text-decoration: underline;
+}
